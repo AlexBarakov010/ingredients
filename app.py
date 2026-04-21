@@ -21,6 +21,10 @@ UNHEALTHY_E_NUMBERS = {
     "E951": "Aspartame",
     "E952": "Cyclamate",
     "E954": "Saccharin"
+    Acesulfame Potassium (E950)
+    Sucralose
+    Benzoic Acid (E210)
+    High Caffeine (including Guarana extract)
 }
 if uploaded_file:
     image = Image.open(uploaded_file)
